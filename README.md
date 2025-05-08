@@ -23,7 +23,7 @@ This project implements customer segmentation for a superstore dataset using RFM
 ## Dashboard
 
 You can view the interactive dashboard online:
-- **Interactive Dashboard**: [View Superstore Customer Segmentation Dashboard](http://localhost:3000/public/dashboard/ca1f7421-942f-4193-a27c-adcb9336faa7)
+- **Interactive Dashboard**: [View Superstore Customer Segmentation Dashboard]()
 
 ## Technologies Used
 
