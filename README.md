@@ -24,7 +24,8 @@ This project implements customer segmentation for a superstore dataset using RFM
 
 You can view the interactive dashboard online:
 - **Interactive Dashboard**:
-[![Preview PDF](https://github.com/filzarahma/superstore-customer-segmentation/blob/main/Sales%20Dashboard.pdf)]
+
+![Preview PDF](https://github.com/filzarahma/superstore-customer-segmentation/blob/main/Sales%20Dashboard.pdf)
 
 ## Technologies Used
 
